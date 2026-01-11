@@ -585,3 +585,19 @@ HAVING group_filter;
 7. Draw out the tables on paper to visualize joins
 8. Remember: GROUP BY groups data, HAVING filters groups, WHERE filters rows
 */
+
+-- =============================================================================
+-- SQL PRACTICE QUESTIONS - JOINS & AGGREGATES (Day 2)
+-- =============================================================================
+/*
+1. Perform an INNER JOIN between two tables
+2. Use LEFT JOIN to return all records from the left table and matching rows from the right table
+3. Count total records per group using GROUP BY and COUNT()
+4. Calculate average salary per department using GROUP BY and AVG()
+5. Find maximum and minimum values per category using MAX() and MIN()
+6. Compute the sum of sales per region using GROUP BY and SUM()
+7. Filter grouped results with HAVING (e.g., HAVING SUM(sales) > 10000)
+8. Join three tables together with appropriate ON conditions
+9. Count distinct values per group using COUNT(DISTINCT column_name)
+10. Combine JOINs with WHERE conditions (e.g., joins + WHERE date BETWEEN ... AND ...)
+*/
