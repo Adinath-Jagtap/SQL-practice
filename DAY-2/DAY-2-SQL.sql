@@ -585,9 +585,9 @@ HAVING group_filter;
 8. Remember: GROUP BY groups data, HAVING filters groups, WHERE filters rows
 */
 
--- ============================================================================
+-- ===========================================================================
 -- SQL PRACTICE QUESTIONS - JOINS & AGGREGATES (Day 2)
--- ============================================================================
+-- ===========================================================================
 /*
 1. Perform an INNER JOIN between two tables
 2. Use LEFT JOIN to return all records from the left table and matching rows from the right table
