@@ -965,7 +965,6 @@ FRAME SPECIFICATION:
    LEAD(col, 1) looks forward 1 row (not back!)
 */
 
-
 -- PRACTICE TIPS:
 
 -- Start with small datasets to see results clearly
